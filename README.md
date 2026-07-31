@@ -109,7 +109,7 @@ Clone the repository:
 ```bash
 git clone https://github.com/Nasabunc09/geoai-earthquake-analytics-venez.git
 
-cd venezuela-earthquake-analytics
+cd geoai-earthquake-analytics-venez
 ```
 
 Install dependencies:
@@ -163,7 +163,7 @@ https://earthquake.usgs.gov/
 Computer Science Student | Data Science | AI | Python | Web Development
 
 LinkedIn:
-[(https://www.linkedin.com/in/cyntia-nasabun-pantoja-b7499288/)]
+[https://www.linkedin.com/in/cyntia-nasabun-pantoja-b7499288/]
 
 GitHub:
-[(https://github.com/Nasabunc09)]
+[https://github.com/Nasabunc09]
