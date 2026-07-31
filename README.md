@@ -8,7 +8,6 @@ The project retrieves earthquake records, processes the data with **Pandas**, ge
 
 ## 📸 Dashboard Preview
 
-> *(Add screenshots of your dashboard here)*
 
 ### Dashboard
 
